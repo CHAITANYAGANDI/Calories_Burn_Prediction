@@ -1,0 +1,9 @@
+# Ignore specific files
+Final_Project_Report.docx
+Calories_Burnt_Prediction.mp4
+Final_Project_Report.pdf
+requirements.txt
+calories.csv
+
+# Ignore the virtual environment directory
+.venv
